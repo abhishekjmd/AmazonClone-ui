@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amazoncloneui",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\Hp\\Desktop\\AmazonClone-ui\\amplify\\backend\\api\\amazoncloneui\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2023-06-21T11:36:29.254Z",
+      "keyDescription": "api key amazon"
+    },
+    "conflictResolution": {
+      "defaultResolutionStrategy": {
+        "type": "AUTOMERGE"
+      }
+    }
+  }
+}
